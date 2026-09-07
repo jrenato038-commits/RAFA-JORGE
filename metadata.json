@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Rafael Jorge - Motoboy Profissional",
+  "description": "Portfólio profissional e sistema de chamados de coleta e entrega para Rafael Jorge, motoboy com atendimento em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
